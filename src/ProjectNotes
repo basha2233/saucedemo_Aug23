@@ -1,0 +1,9 @@
+base package, page factory, util , testpackage created
+home page, login page , home test page, login test page created
+Itest listners added
+Extent report added in listners , used assert statements to pass , Fail
+Capture screenshot and adding to extent repot and fail screenshot added in the Testlistner
+for failing test cases added assertequals() in the last line of method.
+wait statement from utils
+excel input/output - needs to added
+apache poi - pending
